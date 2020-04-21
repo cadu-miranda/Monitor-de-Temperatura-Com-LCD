@@ -8,5 +8,7 @@ Componenentes utilizados:
 - 1 Display LCD 16x02
 - 1 Buzzer Ativo
 - 1 Sensor de temperatura TMP-36
-- 1 Resistor de 220Ω
+- 2 Resistores de 220Ω
 - 1 LED Vermelho
+
+<img src="tinker.png" width="470" height="300"> 
