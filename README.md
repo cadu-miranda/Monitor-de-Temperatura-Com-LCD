@@ -12,3 +12,5 @@ Componenentes utilizados:
 - 1 LED Vermelho
 
 <img src="tinker.png" width="470" height="300"> 
+
+# Para que o projeto possa funcionar, coloque o arquivo .ino dentro de uma pasta com o mesmo nome.
