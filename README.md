@@ -3,4 +3,4 @@ Projeto realizado na plataforma on-line "Tinkercad" para a realização da prova
 
 Componenentes utilizados:
 
-<img src="tinker.png" width="310" height="180"> 
+<img src="C:\Users\User\Desktop\tinker.png" width="310" height="180"> 
