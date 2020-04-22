@@ -1,5 +1,6 @@
 # projetoCursoCPSArduino
-Projeto realizado na plataforma on-line "Tinkercad" para a realização da prova final do Curso de Arduino do Centro Paula Souza.
+
+# Projeto feito para fins não-lucrativos e aprendizagem própria para a realização da prova final do Curso de Arduino do Centro Paula Souza utilizando a ferramenta "Tinkercad".
 
 Componenentes utilizados:
 
