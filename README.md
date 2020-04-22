@@ -11,6 +11,6 @@ Componenentes utilizados:
 - 2 Resistores de 220Ω;
 - 1 LED Vermelho.
 
-<img src="tinker.png" width="460" height="330"> 
+<img src="tinker.png" width="700" height="330"> 
 
 # Para que o projeto possa funcionar, coloque o arquivo .ino dentro de uma pasta com o mesmo nome.
