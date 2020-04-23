@@ -1,4 +1,4 @@
-# projetoCursoCPSArduino
+# projetoCursoArduino
 
 # Projeto feito para fins não-lucrativos e aprendizagem própria utilizando a ferramenta "Tinkercad".
 
