@@ -1,4 +1,4 @@
-# projetoCursoArduino
+# Monitor-de-Temperatura-Com-LCD
 
 # Projeto realizado com a ajuda da plataforma de simulação "Tinkercad".
 
