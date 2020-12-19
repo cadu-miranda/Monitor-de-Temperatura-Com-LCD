@@ -23,5 +23,3 @@ Exemplo de quando a temperatura está normal.
 Exemplo de quando a temperatura está acima do estipulado - LED acende e buzzer é ativado.
 
 <img src="img_.png" width="700" height="330"> 
-
-# Para que o projeto possa funcionar, coloque o arquivo .ino dentro de uma pasta com o mesmo nome.
