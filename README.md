@@ -1,6 +1,6 @@
 # projetoCursoArduino
 
-# Projeto feito para fins não-lucrativos e aprendizagem própria utilizando a ferramenta "Tinkercad".
+# Projeto feito para fins não-lucrativos e aprendizagem própria utilizando a plataforma "Tinkercad".
 
 Componenentes utilizados:
 
